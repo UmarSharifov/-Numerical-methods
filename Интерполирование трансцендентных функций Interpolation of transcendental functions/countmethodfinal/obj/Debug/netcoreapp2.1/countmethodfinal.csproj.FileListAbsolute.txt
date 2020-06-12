@@ -1,0 +1,11 @@
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\bin\Debug\netcoreapp2.1\countmethodfinal.deps.json
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\bin\Debug\netcoreapp2.1\countmethodfinal.runtimeconfig.json
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\bin\Debug\netcoreapp2.1\countmethodfinal.runtimeconfig.dev.json
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\bin\Debug\netcoreapp2.1\countmethodfinal.dll
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\bin\Debug\netcoreapp2.1\countmethodfinal.pdb
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.csprojAssemblyReference.cache
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.csproj.CoreCompileInputs.cache
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.AssemblyInfoInputs.cache
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.AssemblyInfo.cs
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.dll
+C:\Users\infol\source\repos\countmethodfinal\countmethodfinal\obj\Debug\netcoreapp2.1\countmethodfinal.pdb
